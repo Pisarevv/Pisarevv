@@ -38,4 +38,26 @@ I am Hristo Pisarev,a curious engineer exploring the deep fields of software dev
 
 ## 👨🏻‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,regex,stackoverflow,git,arduino&theme=dark&perline=3)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html&theme=dark&perline=3)](https://skillicons.dev)
+
+### Testing
+<img align="center" style="margin:0.5rem" src="https://nunit.org/img/nunit.svg" width="55" height="55"/><img align="center" style="margin:0.5rem" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_mocha.svg" width="55" height="55"/><img align="center" style="margin:0.5rem" src="https://raw.githubusercontent.com/gist/keithamus/3d8cfbaeddf8bdf5f7cd94a3bdae0934/raw/63ca295f3aa7e1b94b598d84dfe0330383497a8c/Chai%20Logo%20(C).svg" width="55" height="55"/>
+
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=3)](https://skillicons.dev)
+
+
+
+### Database
+<img style="margin:0.9rem" src="https://img.icons8.com/color/512/microsoft-sql-server.png" width="55" height="50"/><img style="margin:0.9rem" src="https://github.com/DapperLib/Dapper/blob/main/Dapper.png" width="40" height="47"/>
+
+
+### Styling
+[![My Skills](https://skillicons.dev/icons?i=css&theme=dark&perline=3)](https://skillicons.dev)
+
+
+
+
+
