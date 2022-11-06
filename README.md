@@ -1,22 +1,37 @@
 ![Hristo's GitHub Banner](./assets/GitHubHeader.png)
 
-Connections:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hristo-pisarev-87258620a/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)(https://www.linkedin.com/in/hristo-pisarev-87258620a/)
 
-### Hi there 👋
+Hi there 👋
+I am Hristo Pisarev,a curious enginner exploring the deep fields of software development with aim of becoming a full-stack developer.
 
-<!--
-**Pisarevv/Pisarevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Pinned Repositories
 
-Here are some ideas to get you started:
+<a href="https://github.com/Pisarevv/SoftUni-CSharp-Advanced">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Pisarevv&repo=SoftUni-CSharp-Advanced&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Pisarevv/SoftUni-CSharp-OOP">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Pisarevv&repo=SoftUni-CSharp-OOP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/Pisarevv/SoftUni-JavaScript-Advanced">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Pisarevv&repo=SoftUni-JavaScript-Advanced&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Pisarevv/SoftUni-JavaScript-Applications">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Pisarevv&repo=SoftUni-JavaScript-Applications&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<!-- GitHub Stats -- >
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
