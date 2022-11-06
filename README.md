@@ -49,7 +49,6 @@ I am Hristo Pisarev,a curious engineer exploring the deep fields of software dev
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=3)](https://skillicons.dev)
 
 
-
 ### Database
 <img style="margin:0.9rem" src="https://img.icons8.com/color/512/microsoft-sql-server.png" width="55" height="50"/><img style="margin:0.9rem" src="https://github.com/DapperLib/Dapper/blob/main/Dapper.png" width="40" height="47"/>
 
