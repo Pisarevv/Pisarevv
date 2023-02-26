@@ -28,7 +28,7 @@ I am Hristo Pisarev,a curious engineer exploring the deep fields of software dev
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Pisarevv">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisarevv&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisarevv&hide=html,css,Batchfile&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/https://github.com/Pisarevv">
