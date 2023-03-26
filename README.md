@@ -4,7 +4,7 @@
 
 
 Hi there 👋
-I am Hristo Pisarev,a curious engineer exploring the deep fields of software development with aim of becoming a full-stack developer.
+I am Hristo Pisarev,a curious engineer exploring the fields of software development with aim of becoming a full-stack developer.
 
 ## 📌 Pinned Repositories
 
