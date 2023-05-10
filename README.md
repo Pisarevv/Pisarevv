@@ -41,7 +41,8 @@ Hello, world!👋  I'm Hristo Pisarev, a passionate engineer currently diving in
 [![My Skills](https://skillicons.dev/icons?i=cs,js&theme=dark&perline=3)](https://skillicons.dev)
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,dotnet&theme=dark&perline=3)](https://skillicons.dev)
+
 
 ### Testing
 <img align="center" style="margin:0.5rem" src="https://nunit.org/img/nunit.svg" width="55" height="55"/><img align="center" style="margin:0.5rem" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_mocha.svg" width="55" height="55"/> <img align="center" style="margin:0.5rem" src="https://raw.githubusercontent.com/gist/keithamus/3d8cfbaeddf8bdf5f7cd94a3bdae0934/raw/63ca295f3aa7e1b94b598d84dfe0330383497a8c/Chai%20Logo%20(C).svg" width="55" height="55"/>
