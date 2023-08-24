@@ -41,7 +41,7 @@ Hello, world!👋  I'm Hristo Pisarev, a passionate engineer currently diving in
 [![My Skills](https://skillicons.dev/icons?i=cs,js&theme=dark&perline=3)](https://skillicons.dev)
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,dotnet&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react&theme=dark&perline=3)](https://skillicons.dev)
 
 
 ### Testing
