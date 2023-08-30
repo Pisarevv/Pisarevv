@@ -15,7 +15,7 @@ Hello, world!👋  I'm Hristo Pisarev, a passionate engineer currently diving in
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Pisarevv&repo=FurnitureStore&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Pisarevv/SoftUni-CSharp-Entity-Framework-Core">
+<a href="https://github.com/Pisarevv/SoftUni-ASP.NET-Fundamentals">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Pisarevv&repo=SoftUni-ASP.NET-Fundamentals&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
